@@ -2,10 +2,8 @@
 # Project Overview
 This project focuses on analyzing Zomato restaurant data to gain insights into customer preferences, restaurant performance, pricing, and service availability. The analysis helps understand food trends, popular locations, rating patterns, and cost distribution across different cities and cuisines.
 
-# Dataset used -> 
-
-<a href="https://github.com/chetan164/Data-Analysis-dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20P.xlsx">Dataset</a>
-
+# Dataset used ->
+<a href="https://github.com/chetan164/Zomato-_Restaurant_Analysis/blob/main/restaurant_data_cl.xlsx">Dataset</a>
 - Zomato restaurant listing data  
 - Each row represents one restaurant  
 - Contains location, cuisine, rating, and pricing details  
