@@ -4,7 +4,7 @@ This project focuses on analyzing Zomato restaurant data to gain insights into c
 
 # Dataset used -> 
 
-![Zomato Restaurant Analysis](https://raw.githubusercontent.com/chetan164/Zomato-_Restaurant_Analysis/main/Zomato_Restaurant_Analysis.png)
+<a href="https://github.com/chetan164/Data-Analysis-dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20P.xlsx">Dataset</a>
 
 - Zomato restaurant listing data  
 - Each row represents one restaurant  
@@ -38,6 +38,7 @@ This project focuses on analyzing Zomato restaurant data to gain insights into c
 - Price range vs rating comparison  
 - Online delivery & table booking availability  
 - Cuisine-wise restaurant distribution  
+![Zomato Restaurant Analysis](https://raw.githubusercontent.com/chetan164/Zomato-_Restaurant_Analysis/main/Zomato_Restaurant_Analysis.png)
 
 
 ## Key Insights
